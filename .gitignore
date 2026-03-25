@@ -1,0 +1,15 @@
+node_modules/
+dist/
+unpackage/
+.hbuilderx/
+.idea/
+.vscode/
+coverage/
+
+cert/
+pack-monitor.cmd
+
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
